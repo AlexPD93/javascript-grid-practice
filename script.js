@@ -1,6 +1,6 @@
-let winningWord = "colombia";
+let winningWord = "Japan";
 
-const container = document.getElementById("container");
+const container = document.getElementById("board");
 
 function makeRows(rows, cols) {
   container.style.setProperty("--grid-rows", rows);
