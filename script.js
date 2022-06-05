@@ -1,4 +1,4 @@
-let winningWord = "australia";
+let winningWord = "colombia";
 
 const container = document.getElementById("container");
 
